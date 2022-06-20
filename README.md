@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Kazmi
-- 👀 I’m interested in Tech and MMA
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in chess, UFC and filmmaking
+- 🌱 I’m a web developer
 - 📫 How to reach me? My Mail: smrkamzi@gmail.com
 
 <!---
