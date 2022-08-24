@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @R-Kazmi
+- 👋 Hi, I’m Roohullah Kazmi
 - 👀 I’m interested in chess, UFC and filmmaking
-- 🌱 I’m a web developer
+- 🌱 I’m a Software Engineer and Fullstack Developer
 - 📫 How to reach me? My Mail: smrkamzi@gmail.com
 - 📄 [Resume Link](https://drive.google.com/file/d/1sSY3-PfR2EpZJ6r13avFUZd4d3lBOdxO/view)
 
